@@ -1,4 +1,4 @@
 # Machine-Learning-Projects
 
-- [Loan Approval FastAPI](https://github.com/yourusername/loan-approval-fastapi)
-- [Shortest Path Finding](https://github.com/yourusername/Shortest-Path-Finding)
+- [Loan Approval FastAPI](https://github.com/ashishjadhav-001/loan-approval-fastapi)
+- [Shortest Path Finding](https://github.com/ashishjadhav-001/Shortest-Path-Finding)
