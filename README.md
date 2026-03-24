@@ -4,3 +4,4 @@
 - [Shortest Path Finding](https://github.com/ashishjadhav-001/Shortest-Path-Finding)
 - [Students Performance Factors](https://github.com/ashishjadhav-001/student-performance-factor)
 - [AI Resume Screeing](https://github.com/ashishjadhav-001/AI-resume-screening)
+- [AI-Object-Detection-YOLOV8M](https://github.com/ashishjadhav-001/AI-object-detection-yolov8m)
